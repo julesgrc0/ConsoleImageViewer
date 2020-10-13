@@ -18,6 +18,6 @@ consoleviewer.exe image.png 100
 
 > Example images
 
-![size](https://github.com/JulesG10/ConsoleViewer/main/images/imagesize.pnf)
+![size](https://raw.githubusercontent.com/JulesG10/ConsoleViewer/main/images/file.png)
 ![image](https://github.com/JulesG10/ConsoleViewer/main/images/image.png)
 ![file](https://github.com/JulesG10/ConsoleViewer/main/images/file.png)
