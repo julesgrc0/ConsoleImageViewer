@@ -16,3 +16,6 @@ consoleviewer.exe image.png -o 100
 consoleviewer.exe image.png 100
 ```
 
+> Example images
+
+(size)[https://github.com/JulesG10/ConsoleViewer/edit/main/images/imagesize.png]
